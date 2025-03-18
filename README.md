@@ -158,7 +158,7 @@ Install Wealthwise_backend using one of the following methods:
 
 3. Install the project dependencies:
 
-**Using `npm`** &nbsp; [<img align="center" src="" />]()
+**Using `npm`** &nbsp;
 
 ```sh
 ❯ npm install
