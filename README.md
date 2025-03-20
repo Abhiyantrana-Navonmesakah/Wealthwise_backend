@@ -18,6 +18,7 @@
 
 - [📍 Overview](#-overview)
 - [👾 Features](#-features)
+- [🤖 Agentic Workflow for Stock Recommendation](#-agentic-workflow-for-stock-recommendation)
 - [📁 Project Structure](#-project-structure)
   - [📂 Project Index](#-project-index)
 - [🚀 Getting Started](#-getting-started)
@@ -60,7 +61,7 @@ The WealthWise Backend is a Node.js & Express.js-powered REST API designed to ma
 - Data encryption & secure API routes for financial data protection
 
 ---
-
+### 🤖 Agentic Workflow for Stock Recommendation
 <img src="https://github.com/user-attachments/assets/2edea25c-f727-4d8c-8ed4-f62ca12acee6" align="center"/>
 
 ---
