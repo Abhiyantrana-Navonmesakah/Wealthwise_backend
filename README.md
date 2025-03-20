@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="center" width="30%">
+    <img src="https://github.com/user-attachments/assets/936e0ad8-e308-4f0e-ae6d-5ac23a321e9f" align="center" width="30%">
 </p>
 <p align="center"><h1 align="center">WEALTHWISE_BACKEND</h1></p>
 <p align="center">
@@ -58,6 +58,10 @@ The WealthWise Backend is a Node.js & Express.js-powered REST API designed to ma
 - MongoDB (Mongoose) for flexible & scalable data storage
 - Express.js API endpoints for seamless integration with the frontend
 - Data encryption & secure API routes for financial data protection
+
+---
+
+<img src="https://github.com/user-attachments/assets/2edea25c-f727-4d8c-8ed4-f62ca12acee6" align="center"/>
 
 ---
 
@@ -158,7 +162,7 @@ Install Wealthwise_backend using one of the following methods:
 
 3. Install the project dependencies:
 
-**Using `npm`** &nbsp; [<img align="center" src="" />]()
+**Using `npm`**
 
 ```sh
 ❯ npm install
